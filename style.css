@@ -1,0 +1,34 @@
+#another {
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
+.slider{
+    background-color: #FCEAE8;
+}
+.category{
+    background-color: #FFA500;
+    border-radius: 10px;
+}
+.category-one{
+   background-color: #DA70D6;
+   border-radius: 10px;
+}
+.category-two{
+    background-color: #0000FF;
+    border-radius: 10px;
+}
+.box-one{
+    box-shadow: 5px 5px 10px lightgray;
+    height: 550px;
+}
+.box{
+    box-shadow: 5px 5px 10px lightgray;
+}
+.footer{
+    display: flex;
+    justify-content: center;
+    background-color: #FCEAE8;
+}
